@@ -9,7 +9,6 @@ Este repositório contém um programa em C que processa um arquivo CSV de dados 
 ### Requisitos
 
 - GCC (suporte a pthreads)
-- Makefile (opcional)
 
 ### Compilar
 
